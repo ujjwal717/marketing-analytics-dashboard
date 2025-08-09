@@ -1,6 +1,6 @@
 # marketing-analytics-dashboard
 
-Tool: SQL, Power BI
+Tools: SQL, Power BI
 
 Situation
 
